@@ -24,12 +24,12 @@ src/
 ├── main.js                       # Vue entry point
 ├── assets/                       # Icons, styles
 ├── components/
-│   ├── FollowerCard.vue         # Individual follower card UI
-│   ├── SortToolbar.vue          # Sort buttons toolbar
-│   ├── DateFilter.vue           # Date picker filter component
-│   └── TwubricChartView.vue     # Chart.js score visualization
+│   ├── FollowerCard.vue          # Individual follower card UI
+│   ├── SortToolbar.vue           # Sort buttons toolbar
+│   ├── DateFilter.vue            # Date picker filter component
+│   └── TwubricChartView.vue      # Chart.js score visualization
 ├── views/
-│   ├── TwubricChartView.vue     # Route-level view components
+│   ├── TwubricChartView.vue      # Route-level view components
 ```
 
 ---
@@ -50,7 +50,7 @@ src/
 
 ```bash
 # 1. Clone the repository
-https://github.com/your-username/twubric-app.git
+https://github.com/ayush2034/twubric-app.git
 
 # 2. Navigate into project folder
 cd twubric-app
@@ -72,28 +72,9 @@ npm run dev
 
 ## 🛠 Built With
 
-* [Vue.js 3](https://vuejs.org/)
+* [Vue 3](https://vuejs.org/)
 * [Vite](https://vitejs.dev/)
 * [Bootstrap 5](https://getbootstrap.com/)
 * [Chart.js](https://www.chartjs.org/)
 
 ---
-
-## 📚 Notes
-
-* Fully ES6+ compliant (no jQuery)
-* Responsive grid layout with adaptive controls
-* Can be extended with export/download and additional visualizations
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Ayush Kumar
-GitHub: [your-username](https://github.com/your-username)
